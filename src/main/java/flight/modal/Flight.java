@@ -28,7 +28,7 @@ public class Flight {
     private String arrivalTerminal;
     private Date departureDate;
     private Date arrivalDate;
-    private int availableSeats;
+    private int totalSeats;
     private double ticketPrice;
     private Long flightDurationMinutes;
 }
